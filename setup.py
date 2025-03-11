@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-   name='djikstra_lib',
+   name='djikstra_lib000',
    version='1.0',
    description='about djikstra',
    license='MIT',
@@ -9,10 +9,7 @@ setup(
    author_email='rudovasvetlana570@gmail.com',
    url='https://github.com/rudessa/djikstra_lib',
    packages=['djikstra'],
-   install_requires=[
-       'itertools',
-       'heapq'
-   ], 
+   install_requires=[], 
    extras_require={
         'test': [
             'pytest',
