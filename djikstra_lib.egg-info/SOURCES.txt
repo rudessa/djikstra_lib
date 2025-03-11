@@ -1,8 +1,0 @@
-README.md
-setup.py
-djikstra/__init__.py
-djikstra_lib.egg-info/PKG-INFO
-djikstra_lib.egg-info/SOURCES.txt
-djikstra_lib.egg-info/dependency_links.txt
-djikstra_lib.egg-info/requires.txt
-djikstra_lib.egg-info/top_level.txt
