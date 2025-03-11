@@ -9,7 +9,10 @@ setup(
    author_email='rudovasvetlana570@gmail.com',
    url='https://github.com/rudessa/djikstra_lib',
    packages=['djikstra'],
-   install_requires=[], 
+   install_requires=[
+       'itertools',
+       'heapq'
+   ], 
    extras_require={
         'test': [
             'pytest',
